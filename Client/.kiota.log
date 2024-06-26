@@ -1,0 +1,63 @@
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1message~1quota/get/responses/200/content/application~1json/example/value - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1message~1quota~1consumption/get/responses/200/content/application~1json/example/totalUsage - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1message~1delivery~1reply/get/responses/200/content/application~1json/example/success - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1message~1delivery~1push/get/responses/200/content/application~1json/example/success - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1message~1delivery~1multicast/get/responses/200/content/application~1json/example/success - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1message~1delivery~1broadcast/get/parameters/0/schema - The format ^[0-9]{8}$ is not supported by Kiota for the type string and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1message~1delivery~1broadcast/get/responses/200/content/application~1json/example/success - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1message~1aggregation~1info/get/responses/200/content/application~1json/example/numOfCustomAggregationUnits - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1{richMenuId}/get/responses/200/content/application~1json/example/size/width - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1{richMenuId}/get/responses/200/content/application~1json/example/size/height - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1{richMenuId}/get/responses/200/content/application~1json/example/areas/0/bounds/x - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1{richMenuId}/get/responses/200/content/application~1json/example/areas/0/bounds/y - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1{richMenuId}/get/responses/200/content/application~1json/example/areas/0/bounds/width - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1{richMenuId}/get/responses/200/content/application~1json/example/areas/0/bounds/height - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1list/get/responses/200/content/application~1json/example/richmenus/0/size/width - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1list/get/responses/200/content/application~1json/example/richmenus/0/size/height - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1list/get/responses/200/content/application~1json/example/richmenus/0/areas/0/bounds/x - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1list/get/responses/200/content/application~1json/example/richmenus/0/areas/0/bounds/y - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1list/get/responses/200/content/application~1json/example/richmenus/0/areas/0/bounds/width - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1richmenu~1list/get/responses/200/content/application~1json/example/richmenus/0/areas/0/bounds/height - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1message~1delivery~1pnp/get/responses/200/content/application~1json/example/success - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1message~1delivery~1ad_phone/get/responses/200/content/application~1json/examples/READY/value/success - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/paths/~1v2~1bot~1membership~1subscription~1{userId}/get/responses/200/content/application~1json/example/subscriptions/0/user/nextBillingDate - Data and type mismatch found.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/GetWebhookEndpointResponse/properties/endpoint - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/SetWebhookEndpointRequest/properties/endpoint - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/TestWebhookEndpointRequest/properties/endpoint - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/UserProfileResponse/properties/pictureUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/BotInfoResponse/properties/pictureUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/GroupUserProfileResponse/properties/pictureUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/RoomUserProfileResponse/properties/pictureUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/GroupSummaryResponse/properties/pictureUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/QuickReplyItem/properties/imageUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/Sender/properties/iconUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/ImageMessage/allOf/1/properties/originalContentUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/ImageMessage/allOf/1/properties/previewImageUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/VideoMessage/allOf/1/properties/originalContentUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/VideoMessage/allOf/1/properties/previewImageUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/AudioMessage/allOf/1/properties/originalContentUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/ImagemapMessage/allOf/1/properties/baseUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/ImagemapVideo/properties/originalContentUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/ImagemapVideo/properties/previewImageUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/ImagemapExternalLink/properties/linkUri - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/ButtonsTemplate/allOf/1/properties/thumbnailImageUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/CarouselColumn/properties/thumbnailImageUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/ImageCarouselColumn/properties/imageUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/FlexImage/allOf/1/properties/url - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/FlexVideo/allOf/1/properties/url - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/FlexVideo/allOf/1/properties/previewUrl - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/FlexIcon/allOf/1/properties/url - The format uri is not supported by Kiota and the string type will be used.
+Warning: KiotaBuilder OpenAPI warning: #/components/schemas/URIAction/allOf/1/properties/uri - The format uri is not supported by Kiota and the string type will be used.
+Error: KiotaBuilder OpenAPI error: #/components/schemas/Recipient/discriminator - Schema Recipient must contain property specified in the discriminator type in the required field list.
+Error: KiotaBuilder OpenAPI error: #/components/schemas/DemographicFilter/discriminator - Schema DemographicFilter must contain property specified in the discriminator type in the required field list.
+Error: KiotaBuilder OpenAPI error: #/components/schemas/Action/discriminator - Schema Action must contain property specified in the discriminator type in the required field list.
+Warning: KiotaBuilder Discriminator CameraAction is not inherited from CameraRollAction.
+Warning: KiotaBuilder Discriminator CameraAction is not inherited from LocationAction.
+Warning: KiotaBuilder Discriminator CameraRollAction is not inherited from LocationAction.
+Warning: KiotaBuilder Discriminator RichMenuBatchUnlinkAllOperation is not inherited from RichMenuBatchOperation.
+Warning: KiotaBuilder Discriminator LocationAction is not inherited from CameraRollAction.
+Warning: KiotaBuilder Discriminator CameraRollAction is not inherited from CameraAction.
+Warning: KiotaBuilder Discriminator LocationAction is not inherited from CameraAction.
+Warning: KiotaBuilder Discriminator CameraAction is not inherited from Action.
+Warning: KiotaBuilder Discriminator CameraRollAction is not inherited from Action.
+Warning: KiotaBuilder Discriminator LocationAction is not inherited from Action.
